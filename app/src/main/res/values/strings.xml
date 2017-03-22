@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Caritas</string>
+    <string-array name="contexto">
+        <item>Agradable</item>
+        <item>Reacción</item>
+        <item>Dominio</item>
+    </string-array>
+    <string-array name="respuestas">
+        <item>Para ti las palabras son poco significativas</item>
+        <item>Para ti las palabras no tienen mucho poder</item>
+        <item>Para ti las palabras tienen fuerza y valor, pero no son determinantes</item>
+        <item>Las palabras son muy importantes para ti</item>
+        <item>En ti las palabras ejercen mucho control y fuerza</item>
+    </string-array>
+    <string-array name="tipo">
+        <item>Profesor</item>
+        <item>Alumno</item>
+    </string-array>
+    <string-array name="genero">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string name="mensaje_inicio">
+        ¡Muchas gracias por participar en este estudio! Queremos conocer la carga emotiva de algunas palabras en tres dimensiones:
+        Placentera – no placentera (positiva vs negativa)
+        Reactiva – no reactiva (gran estado de alerta o actividad vs bajo estado de alerta o actividad)
+        Dominante – sumisa (tiene mucho control o influencia vs poco control o influencia)
+        Para lo cual te pedimos que selecciones la figura que represente tu percepción de la palabra.
+        Al final te daremos una retroalimentación indicativa de tus respuestas en relación al bloque de palabras que evaluaste.
+        Tus datos son confidenciales.
+        Al iniciar el estudio estás aceptando que participas de manera voluntaria y das tu consentimiento para que utilicemos los datos que de éste se deriven.
+    </string>
+    <string name="mensaje_final">
+        ¿Deseas ayudarnos con otro conjunto de palabras?
+    </string>
+    <string name="titulo_final">
+        Estudio finalizado.
+    </string>
+</resources>
